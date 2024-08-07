@@ -9,7 +9,7 @@
 > To clone the metaversus repository, run the following command in your terminal:
 
 ```
-git clone https://github.com/kranthikumarkaranam/metaversus.git
+git clone https://github.com/Shanuga123/metaversus.git
 ```
 
 <br>
